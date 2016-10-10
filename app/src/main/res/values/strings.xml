@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Farmers Friend</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_crop">CropActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_calender">CalenderActivity</string>
+    <string name="image1">image</string>
+</resources>
